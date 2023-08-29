@@ -6,9 +6,3 @@
 -  I'm also into video editing, motion graphics, and graphic designing.
 -  I'm also good at Premier Pro and After Effects.
 
-
-
-<!---
-Sidd1374/Sidd1374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
