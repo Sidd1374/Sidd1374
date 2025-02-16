@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @Sidd1374
-- 👀 I’m interested in back-end development, Python, AI, ML, cyber security, and many more technologies
-- 🌱 I’m currently learning ML, back-end server maintenance, and Java app development.
-- 💞️ I’m looking to collaborate on ML, Android Application Development, AI models, etc.
-- 📫 To reach me or find me you can message me on Instagram ( \_ig__skull\_ ) or contact me on my email sidd13704@gmail.com
--  I'm also into video editing, motion graphics, and graphic designing.
--  I'm also good at Premier Pro and After Effects.
+# Hi, I'm @Sidd1374
+
+## Interests
+- **Flutter**
+- **Android Development**
+- **Python**
+- **Machine Learning**
+- **Data Analysis**
+
+## Open to Collaborate On
+- **Machine Learning projects**
+- **Android application development**
+  
+## Contact Me
+- **Instagram:** @_ig__skull_{https://www.instagram.com/_ig__skull_/}
+- **Email:** sidd13704@gmail.com
+
+## Other Interests
+- **Video editing**
+- **Motion graphics**
+- **Graphic designing**
+
+## Projects
+### Anonymous Chat Application
+- A secure platform enabling users to chat anonymously with strangers.
+
+### Care Utility
+- A Flutter-based application designed to assist users in managing the Production and manufacturing of goods on a production line.
+- Realtime Updates
+
+### Kerala Lottery App
+- An Android application providing users with the latest updates and results of the Kerala lottery.
+
+*For more details and source code, please visit my GitHub repositories.*
 
