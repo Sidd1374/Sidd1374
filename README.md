@@ -13,6 +13,7 @@
   
 ## Contact Me
 - **Instagram:** [@_ig__skull_](https://www.instagram.com/_ig__skull_/)
+- **LinkedIn:** [Siddharth Sharma](https://www.linkedin.com/in/siddharthsharma1374/)
 - **Email:** sidd13704@gmail.com
 
 ## Other Interests
